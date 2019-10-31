@@ -1,2 +1,2 @@
 # AFPA_Pro
-Projet de groupe des étudiants de la session d'Avril 2019 de Développeur Web 
+Projet de groupe réalisé par les étudiants de la session d'Avril 2019 de Développeur Web et Web Mobile à l'AFPA de Créteil. Projet réalisé en PHP.
