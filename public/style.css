@@ -1,0 +1,12 @@
+.banniere1{
+    position:fixed;
+    z-index:-1;
+}
+
+.banniere1 img{
+    width:100%;
+}
+
+.titre1{
+    background-color:rgb(54, 93, 153, 0.3);
+}
